@@ -1,0 +1,19 @@
+{
+  "name": "cex-dex-arb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunsiyue/cex-dex-arb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunsiyue/cex-dex-arb/issues"
+  },
+  "homepage": "https://github.com/sunsiyue/cex-dex-arb#readme"
+}
